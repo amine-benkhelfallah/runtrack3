@@ -1,0 +1,29 @@
+.style1{
+    background-color: #88c1d0;
+    border :1px solid black;
+    max-width: 1900px;
+}
+
+.style2{
+    background-color: #ffca4b;
+    width: 1425px;
+}
+.style3{
+    background-color: #275fa0;
+    width: 950px;
+}
+.style4{
+    background-color: red;
+    width: 475px;
+}
+
+
+
+
+    
+    body {
+
+    background-color: #88c1d0;
+    
+}
+
